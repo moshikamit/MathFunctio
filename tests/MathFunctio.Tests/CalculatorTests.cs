@@ -1,4 +1,5 @@
 using MathFunctio;
+using Xunit;
 
 namespace MathFunctio.Tests;
 
